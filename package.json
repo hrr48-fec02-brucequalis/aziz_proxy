@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/hrr48-fec02-brucequalis/aziz_proxy#readme",
   "dependencies": {
-    "aws-sdk": "^2.768.0",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.5",
     "morgan": "^1.10.0",
