@@ -1,0 +1,27 @@
+{
+  "name": "aziz_proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for the FEC capstone",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrr48-fec02-brucequalis/aziz_proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrr48-fec02-brucequalis/aziz_proxy/issues"
+  },
+  "homepage": "https://github.com/hrr48-fec02-brucequalis/aziz_proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.5",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
